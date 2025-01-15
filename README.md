@@ -24,5 +24,5 @@
 
 <h2>Um Pouco Sobre Mim</h2>
 <p align="center">
-    Sou um entusiasta de tecnologia e sempre busco aprender ainda mais. Desde que decidi seguir a área de programação, venho aprimorando minhas habilidades em busca de soluções criativas e eficientes. Atualmente, faço parte da Oktoplus, uma equipe de programação competitiva que me desafia e motiva a crescer ainda mais. Nos momentos de lazer, gosto de jogar, assistir séries e explorar bons filmes. Estou sempre aberto a novos desafios e colaboro ativamente em projetos que fomentem inovação.
+    Sou um entusiasta de tecnologia e sempre busco aprender ainda mais. Desde que decidi seguir a área de programação, venho aprimorando minhas habilidades em busca de soluções criativas e eficientes. Atualmente, faço parte da Oktoplus, uma equipe de programação competitiva que me desafia e motiva a crescer ainda mais. Nos momentos de lazer, gosto de jogar, assistir séries e explorar bons filmes. Estou sempre aberto a novos desafios.
 </p>
