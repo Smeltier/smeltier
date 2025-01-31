@@ -1,13 +1,13 @@
-<h1 align="center">Olá, eu sou Gabriel Gonçalves de Castro!</h1>
-<p align="center">
+<h1>Olá, eu sou Gabriel Gonçalves de Castro!</h1>
+<p>
     Estudante de Engenharia de Computação e apaixonado por tecnologia e aprendizado constante.
 </p>
 
 <h2>Formação</h2>
-<p align="center">Atualmente estudo Engenharia de Computação no <strong>Centro Federal de Educação Tecnológica de Minas Gerais.</p>
+<p>Atualmente estudo Engenharia de Computação no <strong>Centro Federal de Educação Tecnológica de Minas Gerais.</p>
 
 <h2>Minhas Redes Sociais</h2>
-<div align="center">
+<div>
     <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-534598321/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -23,6 +23,6 @@
 </div>
 
 <h2>Um Pouco Sobre Mim</h2>
-<p align="center">
+<p>
     Sou um entusiasta de tecnologia e sempre busco aprender ainda mais. Desde que decidi seguir a área de programação, venho aprimorando minhas habilidades em busca de soluções criativas e eficientes. Atualmente, faço parte da Oktoplus, uma equipe de programação competitiva que me desafia e motiva a crescer ainda mais. Nos momentos de lazer, gosto de jogar, assistir séries e explorar bons filmes. Estou sempre aberto a novos desafios.
 </p>
