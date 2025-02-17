@@ -1,28 +1,42 @@
-<h1>Olá, eu sou Gabriel Gonçalves de Castro!</h1>
+<div align="center">
+
+# Gabriel Gonçalves de Castro
+
+Estudante de **Engenharia de Computação** no **CEFET-MG, unidade de Leopoldina**.  
+Atualmente focado em **Programação Competitiva**.
+
+## Minhas Linguagens
+
 <p>
-    Estudante de Engenharia de Computação e apaixonado por tecnologia e aprendizado constante.
+    <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://pt.wikipedia.org/wiki/C%2B%2B">
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://pt.wikipedia.org/wiki/Python">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
 </p>
 
-<h2>Formação</h2>
-<p>Atualmente estudo Engenharia de Computação no <strong>Centro Federal de Educação Tecnológica de Minas Gerais.</p>
+## Conecte-se Comigo
 
-<h2>Minhas Redes Sociais</h2>
-<div>
-    <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-534598321/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p>
+    <a href="https://www.linkedin.com/in/gabrielgoncalvescastro/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:connect.goncalves@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    &nbsp;&nbsp;
+    <a href="https://x.com/Smeltier">
+        <img src="https://img.shields.io/badge/Twitter/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X">
     </a>
-    <a href="http://lattes.cnpq.br/7726433267441581" target="_blank">
-        <img src="https://img.shields.io/badge/Lattes-007EC3?style=for-the-badge&logo=lattes&logoColor=white" alt="Lattes">
+    &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@GabrielSmeltier">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://www.instagram.com/ocastrogoncalves/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
+</p>
+
+Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+
 </div>
-
-<h2>Um Pouco Sobre Mim</h2>
-<p>
-    Sou um entusiasta de tecnologia e sempre busco aprender ainda mais. Desde que decidi seguir a área de programação, venho aprimorando minhas habilidades em busca de soluções criativas e eficientes. Atualmente, faço parte da Oktoplus, uma equipe de programação competitiva que me desafia e motiva a crescer ainda mais. Nos momentos de lazer, gosto de jogar, assistir séries e explorar bons filmes. Estou sempre aberto a novos desafios.
-</p>
