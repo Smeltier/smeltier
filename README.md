@@ -5,7 +5,7 @@
 Studying **Computer Engineering** at **CEFET-MG (Leopoldina, Minas Gerais, Brazil)**.  
 Currently focused on **Competitive Programming**.
 
-## My Languages
+## My Stack
 
 <p>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
