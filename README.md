@@ -1,26 +1,18 @@
-![profile](img/banner.jpg)
+### Sobre Mim:
 
-# Olá, pessoal!
+Graduando em Engenharia de Computação no CEFET-MG, unidade de Leopoldina.
 
-Meu nome é **Gabriel Gonçalves**, um cara que gosta muito de tecnologia.
+Atualmente, participo de uma Iniciação Científica nas áreas de **Inteligência Artificial** e **Desenvolvimento de Jogos Digitais**, com implementações em Python, explorando tanto aspectos teóricos quanto práticos.
 
-- Foco atual: Programação Competitiva.
-- Hobby favorito: Programar.
+Tenho interesse em Desenvolvimento de Software, IA e áreas correlatas, buscando constantemente aprender novos conceitos. Acredito na importância de unir raciocínio lógico à prática, aplicando conhecimento em projetos acadêmicos e soluções inovadoras.
 
-## Stack:
+Estou aberto a novas oportunidades e colaborações que possibilitem crescimento profissional e impacto real na área de computação.
 
-Essa é a minha Stack:
+### Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" style="margin-right: 50px;" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin-right: 50px;" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" style="margin-right: 50px;" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-</div>
-
-## Contato:
-
-Você pode me encontrar no:
-
-* [Meu perfil do Linkdeln](https://www.linkedin.com/in/gabrielgoncalvescastro/)
-* [Meu canal do YouTube](https://www.youtube.com/@gabrielsmeltier)
+### Contato:
+[LinkedIn](https://www.linkedin.com/in/gabrielgoncalvescastro/) • [YouTube](https://www.youtube.com/@gabrielsmeltier)
