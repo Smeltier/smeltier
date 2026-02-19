@@ -1,4 +1,4 @@
-### Sobre Mim:
+## Sobre Mim:
 
 Graduando em Engenharia de Computação no CEFET-MG, unidade de Leopoldina.
 
@@ -10,7 +10,7 @@ Acredito na importância de unir raciocínio lógico à prática, aplicando conh
 
 Estou aberto a novas oportunidades e colaborações que possibilitem crescimento profissional e impacto real na área de computação.
 
-### Stack:
+## Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
@@ -22,7 +22,7 @@ Estou aberto a novas oportunidades e colaborações que possibilitem crescimento
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 
-## Contato
+## Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabrielgoncalvescastro/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@gabrielsmeltier)
