@@ -1,6 +1,6 @@
 <div align="center">
 
-## About Me:
+## About Me
 
 Computer Engineering student at **CEFET-MG** (Leopoldina campus).
 
@@ -8,7 +8,7 @@ Currently engaged in Undergraduate Research focusing on **Artificial Intelligenc
 
 I am open to new opportunities and collaborations that foster professional growth and create a real impact in the computing field.
 
-## Tech Stack:
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,10 +26,11 @@ I am open to new opportunities and collaborations that foster professional growt
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+## Top Langs
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Smeltier&layout=compact&theme=dark)
 
-## Social:
+## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabrielgoncalvescastro/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@gabrielsmeltier)
