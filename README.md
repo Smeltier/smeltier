@@ -29,7 +29,7 @@ I am open to new opportunities and collaborations that foster professional growt
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Smeltier&layout=compact&theme=dark)
 
-## Contact:
+## Social:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabrielgoncalvescastro/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@gabrielsmeltier)
